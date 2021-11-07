@@ -1,2 +1,2 @@
 # Leadership-Education-and-Development-LEAD-Workshop
-A presentation on the Basics of Survey Construction and Data Investigation
+This was a small workshop designed to present some of the Basics of Survey Construction and Data Investigation. It was designed for None Profit leaders in Pennsylvania. This workshop occurred virtually. To get access to the slides that go along with the R code in the repository, do access them through my Rpubs. [LEAD PA Survey and Data Analysis](http://rpubs.com/jf2987/LEAD)
